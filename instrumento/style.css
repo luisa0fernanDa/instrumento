@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: hwb(195 92% 5%);
+}
+
+header {
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Macondo', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2rem;
+  color: black;
+  border-bottom: hsl(290, 70%, 29%) 2px groove;
+  padding: 0;
+}
+
+select {
+  width: 12rem;
+  margin-top: 2rem;
+  box-shadow: 0 0 15px #8b07c4;
+  border-radius: 15px;
+  background-color: #221007;
+  color: #ffff;
+}
+
+main {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.padre{
+    margin-top: 2rem;
+    width: 20rem;
+    height: 20rem;
+    <font size=10>
+  
+}
+
